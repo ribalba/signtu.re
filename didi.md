@@ -3,7 +3,7 @@ layout: default
 permalink: /didi
 ---
 
-# Didi Hoffmann (CTO) (he/him)
+## Didi Hoffmann (CTO) (he/him)
 
 🗺️ [Green Coding Solutions GmbH, Jablonskistr. 24, 10405 Berlin](https://www.openstreetmap.org/node/1728258889)
 
