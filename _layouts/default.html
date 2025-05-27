@@ -17,6 +17,10 @@
   <body>
     <div id="container">
       <div class="inner">
+        <header>
+          <h1>{{ page.ctitle | default: ""}}</h1>
+        </header>
+        
         <section id="main_content">
           {{ content }}
         </section>
