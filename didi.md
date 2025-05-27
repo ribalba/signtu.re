@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /didi
+title: signtu.re
 ---
 
 ## Didi Hoffmann (CTO) (he/him)
