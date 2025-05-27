@@ -17,7 +17,7 @@ One tiny URL. One huge difference.
 
 ## 💡 How It Works
 
-1. **Create a PR with our profile** on [signtu.re](https://github.com/ribalba/signtu.re/)
+1. **Create a PR with our profile** on [signtu.re](https://github.com/ribalba/signtu.re/pulls)
 2. **Replace your email signature** with your unique short link  
 3. **Recipients click the link** to see your full, beautifully formatted signature  
 4. **You save energy** and do your part for the environment
@@ -57,7 +57,7 @@ You just write:
 
 ## 🚀 Get Started
 
-1. [Create your signtu.re]([https://signtu.re/signup](https://github.com/ribalba/signtu.re/))  
+1. [Create your signtu.re](https://github.com/ribalba/signtu.re/pulls)  
 2. Update your email signature settings  
 3. Help the internet breathe a little easier
 
