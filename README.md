@@ -6,7 +6,7 @@
 
 Every time you send an email, your signature — logos, images, phone numbers, disclaimers — gets sent again and again, sometimes hundreds of times per day. 
 
-If you want to see how bad this really is look at our [calculations](/impact.md)
+If you want to see how bad this really is look at our [calculations](/impact)
 
 That’s **unnecessary data**, consuming energy and contributing to **digital waste**.
 
