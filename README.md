@@ -70,9 +70,11 @@ Be part of the solution — not the pollution.
 
 ---
 
-## Why is this on GitHub
+## 😽 Why is this on GitHub
 
 I wanted a very simple way to try this out. If enough people show interest I will program a proper service. 
+
+--
 
 **signtu.re**  
 *Smaller emails. Cleaner planet.*
