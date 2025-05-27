@@ -1,4 +1,3 @@
-# ✉️ signtu.re — Smarter Email Signatures for a Healthier Planet
 
 **Cut the bloat. Save data. Reduce your footprint.**
 
