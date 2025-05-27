@@ -1,3 +1,7 @@
+---
+layout: default
+title: signtu.re
+---
 
 ## Cut the bloat. Save data. Reduce your footprint.
 
